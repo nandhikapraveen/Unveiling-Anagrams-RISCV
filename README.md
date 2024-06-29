@@ -1,5 +1,3 @@
-# Unveiling-Anagrams-RISCV
-
 # Unveiling Anagrams Using RISC-V Assembly Language
 
 ## Introduction
